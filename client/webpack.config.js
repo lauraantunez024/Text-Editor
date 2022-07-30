@@ -34,6 +34,7 @@ module.exports = () => {
         short_name: "J.A.T.E",
         description: "Take notes with js highlighting",
         background_color: "#EEEEEE",
+        theme_color: "#225ca3",
         start_url: "./",
         publicPath: "./",
         icons: [
